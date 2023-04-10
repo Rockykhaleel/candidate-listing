@@ -84,7 +84,7 @@ nav i {
 
 .main-top {
   width: 100%;
-  background: #fff;
+  background: #e4e0e0fc;
   padding: 10px;
   text-align: center;
   font-size: 18px;
@@ -207,7 +207,7 @@ h1 {
 .job_salary {
   text-align: right;
   color: rgb(54, 54, 54);
-  padding-top: 13px;
+  padding-top: 40px;
 }
 
 .job_card:active {
@@ -229,4 +229,9 @@ h1 {
 }
 .report {
   padding-left: 50px;
+  text-align: justify;
+  padding-top: 15px;
+}
+.text {
+  padding-top: 15px;
 }
